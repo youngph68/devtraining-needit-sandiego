@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Open to experience the NeedIt Application in a new way!</hint>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>The NeedIt Experience</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>50</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>/x/58872/needit-experience/home</query>
+        <report/>
+        <roles>x_58872_needit.admin,x_58872_needit.needit_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 16:41:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c5318b999724711035adfbc71153aff0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>The NeedIt Experience</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_c5318b999724711035adfbc71153aff0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 16:41:12</sys_updated_on>
+        <timeline_page/>
+        <title>The NeedIt Experience</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>_blank</window_name>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2ba6bdeadb8f4d1042b321c405961932</instance_id>
+        <instance_name>dev126782</instance_name>
+        <name>sys_app_module_c5318b999724711035adfbc71153aff0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application><assessment/><device_type/><filter/><hint>Open to experience the NeedIt Application in a new way!</hint><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>The NeedIt Experience</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>50</order><override_menu_roles>false</override_menu_roles><query>/x/58872/needit-experience/home</query><report/><roles>x_58872_needit.admin,x_58872_needit.needit_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-08 16:41:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c5318b999724711035adfbc71153aff0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>The NeedIt Experience</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_c5318b999724711035adfbc71153aff0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-08 16:41:12</sys_updated_on><timeline_page/><title>The NeedIt Experience</title><uncancelable>false</uncancelable><view_name/><window_name>_blank</window_name></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1243982479</payload_hash>
+        <record_name>The NeedIt Experience</record_name>
+        <reverted_from/>
+        <source>371241639794311035adfbc71153afee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 16:41:12</sys_created_on>
+        <sys_id>6f99c7919764711035adfbc71153af2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189d6061d3a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 16:41:12</sys_updated_on>
+        <type>Module</type>
+        <update_guid>2799c791e164711070a64d07ec0e032d</update_guid>
+        <update_guid_history>2799c791e164711070a64d07ec0e032d:-1243982479</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="The NeedIt Experience">6f5294f99720311035adfbc71153af71</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-09 16:37:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>10c67ad1980640d28167c72dde02c764</sys_id>
+        <sys_metadata>c5318b999724711035adfbc71153aff0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>The NeedIt Experience</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_c5318b999724711035adfbc71153aff0</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c5318b999724711035adfbc71153aff0">6f99c7919764711035adfbc71153af2d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-09 16:37:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
